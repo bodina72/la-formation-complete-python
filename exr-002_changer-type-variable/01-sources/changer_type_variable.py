@@ -3,3 +3,7 @@
 # Par exemple : "Le résultat de l'opération est 15" (dans le cas où l'utilisateur entre le nombre 5)
 
 a = 10
+b = input(" entrer un nombre: ")
+b = int (b)
+b = int (a + b ) 
+print (b)
